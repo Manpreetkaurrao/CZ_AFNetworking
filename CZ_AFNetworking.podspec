@@ -20,5 +20,4 @@ spec.name         = "CZ_AFNetworking"
   spec.platform     = :ios, "9.0"
   spec.source       = { :git => "https://github.com/Manpreetkaurrao/CZ_AFNetworking.git", :tag => "#{spec.version}" }
   spec.source_files = "CZ_AFNetworking/*.{h,m}"
-  spec.public_header_files = 'CZ_AFNetworking/CZ_AFNetworking.h'
 end
